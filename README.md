@@ -1,8 +1,16 @@
 # standuhr
 Upcycling einer Standuhr mit einem Calliope Mini
 
+![Standuhr GIF](/img/standuhr.gif)
+
 
 .hex Datei mit dem Kompilierten Source Code
+
+![Standuhr Elektronik](/img/standuhr-elektronik.jpg)
+
+
+![Standuhr Draußen](/img/standuhr-draussen.jpg)
+
 
 ## Verbindungen
 
